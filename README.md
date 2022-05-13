@@ -1,5 +1,5 @@
 # veggie
-VEGGIE is a simple deep learning implementation based on Python. <br>
+VEGGIE is a simple deep learning implementation based on Python Language. <br>
 >`V` stands for Vertices <br>
 >`E` stands for Edges <br>
 >`G` stands for Groups <br>
